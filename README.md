@@ -1,2 +1,2 @@
-# admin-dashboard
+# sb_admin
 Created with CodeSandbox
